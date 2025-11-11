@@ -5,10 +5,10 @@
 
 
 let userName:string='sneara'
-userName=123
+//userName=123
  let userId=123
  userId=123
- userName.toFixed()
+ //userName.toFixed()
  userId.toExponential()
  
  
