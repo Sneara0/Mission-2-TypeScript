@@ -2,6 +2,9 @@
 //String,Number,Boolean,undefined,null
 //Ts:
 //Unknown,never,void
+//Primitive
+//value দিয়ে কাজ করে
+//string, number, boolean
 
 
 let userName:string='sneara'

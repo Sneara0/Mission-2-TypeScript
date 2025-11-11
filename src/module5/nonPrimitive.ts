@@ -1,3 +1,13 @@
+//Non-Primitive (Reference) Data Types
+
+//এগুলো হলো এমন ডাটা যেগুলো একাধিক মান ধারণ করে
+//এবং reference (memory address) দিয়ে কাজ করে।
+
+//Non-Primitive
+//reference দিয়ে কাজ করে
+//object, array, function
+
+
 //array,object
 //tuple
 let bazarList=[
