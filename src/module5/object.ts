@@ -36,7 +36,7 @@ const user:{
    isMarried:true
 
 }
-user.organization('Programming Hero Fire')
+//user.organization('Programming Hero Fire')
 console.log(user)
 
 
