@@ -1,5 +1,7 @@
 //refference type:object
 
+import type { GenericArray, User } from "../module6/gnerics";
+
 //const user:{
     //organization:'Programming Hero';//vaue=>type :literal types
     //firstName:string;
@@ -37,7 +39,17 @@ const user:{
 
 }
 //user.organization('Programming Hero Fire')
-console.log(user)
+console.log(user);
+const UserList: GenericArray<User> = [
+    {
+        name: "Mr. X",
+        age: 22,
+    },
+    {
+        name: "Mr. Y",
+        age: 25,
+    },
+];
 
 
 //┌───────────────────────────┐
